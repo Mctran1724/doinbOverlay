@@ -1,9 +1,9 @@
 # doinbOverlay
 
-An overlay for League of Legends to facilitate developing the habit of timing important summoner spell cooldowns on the enemy team. This project is in a developmental phase. Many features have yet to be added. Currently, it is in it's first functional form.
+An overlay for League of Legends to facilitate developing the habit of timing important summoner spell cooldowns on the enemy team. Currently, typing summoner spells manually can be cumbersome and difficult. The goal is to make that easier. This project is in a developmental phase. Many possible features have yet to be added. Currently, it is in it's first functional form. This is meant as a foray into app development for me. Advice is welcome.
 
 Note: you must be logged in and in a current game to access the Riot Games live game API.
-My summoner name is hardcoded for now.
+my_summoner_name is hardcoded for now.
 
 Potential additions:
   Being able to toggle the overlay with a hotkey
