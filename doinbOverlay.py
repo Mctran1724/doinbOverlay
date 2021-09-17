@@ -7,7 +7,7 @@ import time
 import sys
 from datetime import timedelta
 
-my_summoner_name = "Robert Lucci"
+my_summoner_name = "403N"
 
 class Overlay(QWidget):
 	def __init__(self, champions):
