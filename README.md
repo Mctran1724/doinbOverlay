@@ -7,6 +7,7 @@ Overlay requires windowed mode in-game.
 my_summoner_name is hardcoded for now.
 
 Potential additions:
+  ARAM SS Timers
   Being able to toggle the overlay with a hotkey
   Type summoner spells on hotkey instead of button click
   Include Ultimate Cooldowns
