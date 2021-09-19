@@ -84,7 +84,7 @@ class Overlay(QWidget):
 
 
 		timerText =" ".join([f"{x[0]} {x[1]} {timedelta(seconds = int(x[2]))}" for x in self.sstimers])
-		time.sleep(2)
+		keyboard.send("alt+tab") #Change this to "command+tab" if using mac.
 		keyboard.send("enter")
 		keyboard.write(timerText)
 		keyboard.send("enter")
