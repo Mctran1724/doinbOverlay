@@ -6,14 +6,14 @@ Note: you must be logged in and in a current game to access the Riot Games live 
 Overlay requires windowed mode in-game.
 my_summoner_name is hardcoded for now.
 
-Potential additions: \
- - Being able to toggle the overlay with a hotkey. \
- - Type summoner spells on hotkey instead of button click. \
+Potential additions: 
+ - Being able to toggle the overlay with a hotkey. 
+ - Type summoner spells on hotkey instead of button click. 
  - Include Ultimate Cooldowns. 
 
 
-Updates: \
- - Resized margins and added ARAM summoner spell timer support. \
+Updates: 
+ - Resized margins and added ARAM summoner spell timer support. 
  - Overlay position now adapts to screen size. 
   
 
