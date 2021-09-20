@@ -87,6 +87,7 @@ prompt_toolkit=3.0.17=hd3eb1b0_0
 ptyprocess=0.7.0=pyhd3eb1b0_2
 pycparser=2.20=py_2
 pygments=2.10.0=pyhd3eb1b0_0
+pynput=1.7.3=pypi_0
 pyobjc=7.3=pypi_0
 pyobjc-core=7.3=pypi_0
 pyobjc-framework-accessibility=7.3=pypi_0
