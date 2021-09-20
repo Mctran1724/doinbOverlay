@@ -7,14 +7,14 @@ Overlay requires windowed mode in-game.
 my_summoner_name is hardcoded for now.
 
 Potential additions: \
-  Being able to toggle the overlay with a hotkey. \
-  Type summoner spells on hotkey instead of button click. \
-  Include Ultimate Cooldowns. 
+ - Being able to toggle the overlay with a hotkey. \
+ - Type summoner spells on hotkey instead of button click. \
+ - Include Ultimate Cooldowns. 
 
 
 Updates: \
-  Resized margins and added ARAM summoner spell timer support. \
-  Overlay position now adapts to screen size. 
+ - Resized margins and added ARAM summoner spell timer support. \
+ - Overlay position now adapts to screen size. 
   
 
 doinbOverlay isn't endorsed by Riot Games and doesn't reflect the views or opinions of Riot Games or anyone officially involved in producing or managing Riot Games properties. Riot Games, and all associated properties are trademarks or registered trademarks of Riot Games, Inc.
